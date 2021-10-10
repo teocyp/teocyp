@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teocyp
-- 👀 I’m in love with Front End Development
+- 👀 I’m a professional at Front End Development
 - 🌱 I’m currently working as a React.js developer
 - 💞️ I’m looking to collaborate with like minded individuals
 - 📫 How to reach me: teocyp1@gmail.com - insta/telegram: @teocyp
